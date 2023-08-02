@@ -848,7 +848,8 @@ footer .btn:hover {
 		margin-left: 30%;
 	}
 	nav ul, .srch, .get-started{
-		display: none;
+		display: flex;
+		justify-content: center;
 	}
 	.menu {
 		display: block;
